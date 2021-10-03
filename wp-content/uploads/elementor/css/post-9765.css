@@ -1,0 +1,37 @@
+.elementor-9765 .elementor-element.elementor-element-222b97e{text-align:center;}.elementor-9765 .elementor-element.elementor-element-222b97e > .elementor-widget-container{margin:20px 0px 20px 0px;}.elementor-9765 .elementor-element.elementor-element-d5007f5 .elementor-text-editor{text-align:center;}#elementor-popup-modal-9765 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-9765{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-9765 .dialog-close-button{display:block;}#elementor-popup-modal-9765 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}/* Start custom CSS for text-editor, class: .elementor-element-d5007f5 */#input_5_1 {
+    text-transform: uppercase;
+    font-size: 24px;
+    padding: 14px;
+    text-align: center;
+}
+
+#gform_5 div.gform_footer.top_label {
+	text-align: center;
+}
+
+#gform_submit_button_5 {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    fill: #000;
+    color: #000;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #ffd040;
+    border-radius: 0 0 0 0;
+    padding: 20px 80px;
+}
+
+#gform_submit_button_5:hover {
+	color: #000;
+	background-color: #ffd040;
+	border-color: #ffd040;
+}
+
+#gform_confirmation_message_5 {
+    text-align: center;
+    font-size: 24px;
+    line-height: 1;
+}/* End custom CSS */

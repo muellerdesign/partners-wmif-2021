@@ -1,0 +1,13 @@
+.elementor-kit-8451{--e-global-color-primary:#FFD040;--e-global-color-secondary:#131E29;--e-global-color-text:#323E48;--e-global-color-accent:#007297;--e-global-color-3dce6966:#68A2B9;--e-global-color-5ec376a1:#000000;--e-global-color-5014025d:#97A3AE;--e-global-color-1e79a97a:#FFF;--e-global-typography-primary-font-family:"myriad-pro";--e-global-typography-primary-font-weight:bold;--e-global-typography-secondary-font-family:"myriad-pro";--e-global-typography-secondary-font-weight:bold;--e-global-typography-text-font-family:"myriad-pro";--e-global-typography-text-font-weight:normal;--e-global-typography-accent-font-family:"myriad-pro";--e-global-typography-accent-font-weight:bold;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1025px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:768px;}}/* Start custom CSS */.custom-button {
+font-size: 20px;
+text-transform: uppercase;
+letter-spacing: 3px;
+fill: #070000;
+color: #070000;
+background-color: rgba(2, 1, 1, 0);
+border-style: solid;
+border-width: 5px 5px 5px 5px;
+border-color: #FFD040;
+border-radius: 0px 0px 0px 0px;
+padding: 20px 80px 20px 80px;
+}/* End custom CSS */
